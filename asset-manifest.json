@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pritam1206/React-e-commerce/static/css/main.b922b61e.chunk.css",
+    "main.js": "/pritam1206/React-e-commerce/static/js/main.63ea5484.chunk.js",
+    "main.js.map": "/pritam1206/React-e-commerce/static/js/main.63ea5484.chunk.js.map",
+    "runtime-main.js": "/pritam1206/React-e-commerce/static/js/runtime-main.5708fe4d.js",
+    "runtime-main.js.map": "/pritam1206/React-e-commerce/static/js/runtime-main.5708fe4d.js.map",
+    "static/js/2.56dba267.chunk.js": "/pritam1206/React-e-commerce/static/js/2.56dba267.chunk.js",
+    "static/js/2.56dba267.chunk.js.map": "/pritam1206/React-e-commerce/static/js/2.56dba267.chunk.js.map",
+    "static/js/3.6e2bda99.chunk.js": "/pritam1206/React-e-commerce/static/js/3.6e2bda99.chunk.js",
+    "static/js/3.6e2bda99.chunk.js.map": "/pritam1206/React-e-commerce/static/js/3.6e2bda99.chunk.js.map",
+    "index.html": "/pritam1206/React-e-commerce/index.html",
+    "static/css/main.b922b61e.chunk.css.map": "/pritam1206/React-e-commerce/static/css/main.b922b61e.chunk.css.map",
+    "static/js/2.56dba267.chunk.js.LICENSE.txt": "/pritam1206/React-e-commerce/static/js/2.56dba267.chunk.js.LICENSE.txt",
+    "static/media/crown.3a4e2b15.svg": "/pritam1206/React-e-commerce/static/media/crown.3a4e2b15.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5708fe4d.js",
+    "static/js/2.56dba267.chunk.js",
+    "static/css/main.b922b61e.chunk.css",
+    "static/js/main.63ea5484.chunk.js"
+  ]
+}
